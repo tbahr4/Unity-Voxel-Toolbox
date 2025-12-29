@@ -1,2 +1,2 @@
-# Voxel-Toolbox
-Tools for creating, generating, and managing voxels in Unity
+# Unity-Voxel-Toolbox
+Package of tools for creating, generating, and managing voxels in Unity

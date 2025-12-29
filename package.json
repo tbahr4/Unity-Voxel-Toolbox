@@ -1,0 +1,11 @@
+{
+  "name": "com.tbahr4.voxel-toolbox",
+  "version": "1.0.0",
+  "displayName": "Voxel Toolbox",
+  "description": "Tools for creating, generating, and managing voxels",
+  "unity": "2021.3",
+  "hideInEditor": false,
+  "author": {
+	  "name": "Taylor Bahr"
+  }
+}
