@@ -1,5 +1,5 @@
 {
-    "name": "VoxelToolbox",
+    "name": "VoxelToolbox.Runtime",
     "rootNamespace": "VoxelToolbox",
     "references": [],
     "includePlatforms": [],
