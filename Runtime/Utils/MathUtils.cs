@@ -12,7 +12,7 @@ using UnityEngine;
 
 
 
-namespace VoxelToolbox.Utilities
+namespace VoxelToolbox.Runtime.Utilities
 {
 
 	/// <summary>
@@ -115,4 +115,4 @@ namespace VoxelToolbox.Utilities
 
     }
 
-} // namespace VoxelToolbox.Utilities
+} // namespace VoxelToolbox.Runtime.Utilities

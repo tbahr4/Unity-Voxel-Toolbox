@@ -1,0 +1,16 @@
+{
+    "name": "VoxelToolbox.Editor.Blocks",
+    "rootNamespace": "VoxelToolbox",
+    "references": [
+        "GUID:3b1b21d97fc9c3745a1cd8e0e3dd6c1e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
