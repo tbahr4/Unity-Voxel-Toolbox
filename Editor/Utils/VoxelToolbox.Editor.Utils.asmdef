@@ -1,9 +1,7 @@
 {
-    "name": "VoxelToolbox.Runtime.Blocks",
+    "name": "VoxelToolbox.Editor.Utils",
     "rootNamespace": "VoxelToolbox",
-    "references": [
-        "GUID:650dda2d68db8d94487acbadb73a1ab1"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

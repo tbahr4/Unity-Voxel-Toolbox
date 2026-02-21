@@ -1,8 +1,8 @@
 {
-    "name": "VoxelToolbox.Runtime.Blocks",
+    "name": "VoxelToolbox.Runtime.Core",
     "rootNamespace": "VoxelToolbox",
     "references": [
-        "GUID:650dda2d68db8d94487acbadb73a1ab1"
+        "GUID:3b1b21d97fc9c3745a1cd8e0e3dd6c1e"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
