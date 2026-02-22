@@ -42,17 +42,9 @@ namespace VoxelToolbox.Runtime.Blocks {
 
 #if UNITY_EDITOR
 		/// <summary>
-		/// Updates block fields defined within the registry
-		/// </summary>
-		private void OnValidate() {
-			UpdateBlockIDs();
-			UpdateBlockTextures();
-		}
-
-		/// <summary>
 		/// Updates registered block IDs
 		/// </summary>
-		private void UpdateBlockIDs() {
+		public void UpdateBlockIDs() {
 			for (int blockIdx = 0; blockIdx < blockList.Count; blockIdx++) {
 				BlockDefinition block = blockList[blockIdx];
 				int newID = blockIdx + 1;
@@ -68,7 +60,7 @@ namespace VoxelToolbox.Runtime.Blocks {
 		/// <summary>
 		/// Updates registered block texture fields
 		/// </summary>
-		private void UpdateBlockTextures() {
+		public void UpdateBlockTextures() {
 			int sideCount = Enum.GetNames(typeof(BlockDefinition.CubeFace)).Length;
 			var textures = AssetUtils.LoadTexturesFromFolder(textureRootDir);
 
